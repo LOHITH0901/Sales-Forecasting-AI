@@ -1,5 +1,4 @@
 # 📈 Sales Forecasting AI
-
 An end-to-end Machine Learning project that predicts sales using historical data stored in a MySQL database. The project demonstrates data generation, SQL integration, exploratory data analysis, and sales prediction using Python.
 
 ---
